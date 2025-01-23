@@ -8,3 +8,4 @@ langchain_huggingface
 langchain_text_splitters
 tf-keras
 pypdf
+pysqlite3-binary
