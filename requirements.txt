@@ -8,4 +8,8 @@ langchain_huggingface
 langchain_text_splitters
 tf-keras
 pypdf
-
+chromadb
+numpy
+pandas
+requests
+tensorflow
