@@ -13,4 +13,3 @@ numpy
 pandas
 requests
 tensorflow
-sqlite==3.35.0
