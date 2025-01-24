@@ -32,8 +32,7 @@ This project is a **Conversational Retrieval-Augmented Generation (RAG) system**
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/conversational-rag.git
-    cd conversational-rag
+    git clone https://github.com/fazil6126912/RAG-Q-A-with-conversation-history.git
     ```
 
 2. Create a virtual environment (optional but recommended):
